@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+h1 {
+    margin-bottom: 40px;
+    color:rgb(113, 161, 111);
+}
+.main {
+    background-color: black;
+    color:#fff;
+    height:auto;
+    width:270px;
+    padding:20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+.btn {
+    width:40px;
+    height: auto;
+    margin: 5px;
+}
